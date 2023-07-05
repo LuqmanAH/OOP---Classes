@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kinar\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\OOP & Classes\\02Constructor\\02Constructor.csproj",
+      "projectUniqueName": "c:\\Users\\user\\Programming\\C_Sharp\\OOP-classes\\OOP---Classes\\02Constructor\\02Constructor.csproj",
       "projectName": "02Constructor",
-      "projectPath": "c:\\C#\\Bootcamp\\vscode\\OOP & Classes\\02Constructor\\02Constructor.csproj",
-      "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "c:\\C#\\Bootcamp\\vscode\\OOP & Classes\\02Constructor\\obj\\",
+      "projectPath": "c:\\Users\\user\\Programming\\C_Sharp\\OOP-classes\\OOP---Classes\\02Constructor\\02Constructor.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\user\\Programming\\C_Sharp\\OOP-classes\\OOP---Classes\\02Constructor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

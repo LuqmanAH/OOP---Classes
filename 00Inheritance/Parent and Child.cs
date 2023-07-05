@@ -4,9 +4,9 @@ class Parent
 	public string? myString;
 	public Parent(string myString)
 	{
-		myString = "Parent";
+		this.myString = myString;
 	}
-		public Parent()
+	public Parent()
 	{
 		myString = "Parent";
 	}
@@ -21,7 +21,7 @@ class Child : Parent
 	public string? myStringx;
 	public Child(string y) : base(y)
 	{
-		myString = y;
+		myString = $"{y} but a child";
 	}
 	public void MyMethodChild()
 	{

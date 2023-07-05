@@ -1,15 +1,19 @@
-﻿using InheritanceTutorial;
+﻿using System.ComponentModel;
+using InheritanceTutorial;
 
 static class Program {
 	static void Main() {
-		Parent parent = new Parent("k");
-		Child child = new Child("n");
+		string name = "Suleiman" ;
+		Parent parent = new Parent(name);
+		Child child = new Child(name);
 
 		Console.WriteLine(parent.myString);
 		Console.WriteLine(child.myString);
-		parent.MyMethodParent();
+		// parent.MyMethodParent();
+		// child.MyMethodChild();
+		// parent.MyMethodParent();
 
-		child.MyMethodParent();
-		child.MyMethodChild();
+		// Console.WriteLine("\n");
+		// child.MyMethodParent();
 	}
 }

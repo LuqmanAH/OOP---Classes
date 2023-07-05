@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\OOP & Classes\\01Class\\01Class.csproj": {}
+    "c:\\Users\\user\\Programming\\C_Sharp\\OOP-classes\\OOP---Classes\\01Class\\01Class.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\OOP & Classes\\01Class\\01Class.csproj": {
+    "c:\\Users\\user\\Programming\\C_Sharp\\OOP-classes\\OOP---Classes\\01Class\\01Class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\OOP & Classes\\01Class\\01Class.csproj",
+        "projectUniqueName": "c:\\Users\\user\\Programming\\C_Sharp\\OOP-classes\\OOP---Classes\\01Class\\01Class.csproj",
         "projectName": "01Class",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\OOP & Classes\\01Class\\01Class.csproj",
-        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\OOP & Classes\\01Class\\obj\\",
+        "projectPath": "c:\\Users\\user\\Programming\\C_Sharp\\OOP-classes\\OOP---Classes\\01Class\\01Class.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\user\\Programming\\C_Sharp\\OOP-classes\\OOP---Classes\\01Class\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

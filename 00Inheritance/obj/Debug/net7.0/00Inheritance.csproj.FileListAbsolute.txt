@@ -13,3 +13,18 @@ C:\C#\Bootcamp\vscode\OOP & Classes\00Inheritance\obj\Debug\net7.0\refint\00Inhe
 C:\C#\Bootcamp\vscode\OOP & Classes\00Inheritance\obj\Debug\net7.0\00Inheritance.pdb
 C:\C#\Bootcamp\vscode\OOP & Classes\00Inheritance\obj\Debug\net7.0\00Inheritance.genruntimeconfig.cache
 C:\C#\Bootcamp\vscode\OOP & Classes\00Inheritance\obj\Debug\net7.0\ref\00Inheritance.dll
+c:\Users\user\Programming\C_Sharp\OOP-classes\OOP---Classes\00Inheritance\bin\Debug\net7.0\00Inheritance.exe
+c:\Users\user\Programming\C_Sharp\OOP-classes\OOP---Classes\00Inheritance\bin\Debug\net7.0\00Inheritance.deps.json
+c:\Users\user\Programming\C_Sharp\OOP-classes\OOP---Classes\00Inheritance\bin\Debug\net7.0\00Inheritance.runtimeconfig.json
+c:\Users\user\Programming\C_Sharp\OOP-classes\OOP---Classes\00Inheritance\bin\Debug\net7.0\00Inheritance.dll
+c:\Users\user\Programming\C_Sharp\OOP-classes\OOP---Classes\00Inheritance\bin\Debug\net7.0\00Inheritance.pdb
+c:\Users\user\Programming\C_Sharp\OOP-classes\OOP---Classes\00Inheritance\obj\Debug\net7.0\00Inheritance.csproj.AssemblyReference.cache
+c:\Users\user\Programming\C_Sharp\OOP-classes\OOP---Classes\00Inheritance\obj\Debug\net7.0\00Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\Programming\C_Sharp\OOP-classes\OOP---Classes\00Inheritance\obj\Debug\net7.0\00Inheritance.AssemblyInfoInputs.cache
+c:\Users\user\Programming\C_Sharp\OOP-classes\OOP---Classes\00Inheritance\obj\Debug\net7.0\00Inheritance.AssemblyInfo.cs
+c:\Users\user\Programming\C_Sharp\OOP-classes\OOP---Classes\00Inheritance\obj\Debug\net7.0\00Inheritance.csproj.CoreCompileInputs.cache
+c:\Users\user\Programming\C_Sharp\OOP-classes\OOP---Classes\00Inheritance\obj\Debug\net7.0\00Inheritance.dll
+c:\Users\user\Programming\C_Sharp\OOP-classes\OOP---Classes\00Inheritance\obj\Debug\net7.0\refint\00Inheritance.dll
+c:\Users\user\Programming\C_Sharp\OOP-classes\OOP---Classes\00Inheritance\obj\Debug\net7.0\00Inheritance.pdb
+c:\Users\user\Programming\C_Sharp\OOP-classes\OOP---Classes\00Inheritance\obj\Debug\net7.0\00Inheritance.genruntimeconfig.cache
+c:\Users\user\Programming\C_Sharp\OOP-classes\OOP---Classes\00Inheritance\obj\Debug\net7.0\ref\00Inheritance.dll
